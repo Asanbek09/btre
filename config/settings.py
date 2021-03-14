@@ -151,6 +151,6 @@ MESAGE_TAGS = {
 #Email Config
 EMAIL_HOST = 'smtp.mail.ru'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'asanbek.best@mail.ru'
-EMAIL_HOST_PASSWORD = 'Samudin1990'
+EMAIL_HOST_USER = ' '
+EMAIL_HOST_PASSWORD = ' '
 EMAIL_USE_TLS = True
